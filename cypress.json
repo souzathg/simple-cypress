@@ -1,5 +1,9 @@
 {
   "baseUrl": "http://parodify.herokuapp.com",
-  "viewportWidth": 1280,
-  "viewportHeight": 720
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "env": {
+    "user": "thgsouza@outlook.com",
+    "pass": "1123581321t"
+  }
 }
